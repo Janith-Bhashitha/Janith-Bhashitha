@@ -18,15 +18,13 @@ janith@github:~$ whoami
   <img src="https://img.shields.io/badge/based_in-Sri%20Lanka-00B4FF?style=flat-square&logo=googlemaps&logoColor=white&labelColor=0D1117" alt="Location" />
   &nbsp;
   <img src="https://img.shields.io/badge/status-open_to_collab-00B4FF?style=flat-square&labelColor=0D1117" alt="Status" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/joined_github-2025-00B4FF?style=flat-square&logo=github&logoColor=white&labelColor=0D1117" alt="Joined" />
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Janith-Bhashitha&label=profile+views&color=00B4FF&style=flat-square" alt="Profile Views" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00B4FF,100:0D1117&height=3&section=header&animation=twinkling" width="100%" alt="divider" />
 
 ## 👋 &nbsp;About Me
+
+<img align="right" width="300" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" alt="Coding GIF" />
 
 **Building practical, real-world web applications from front end to back end.**
 
@@ -38,6 +36,8 @@ janith@github:~$ whoami
 - &nbsp;Exploring **Embedded Systems &amp; Robotics**
 - &nbsp;Growing interest in **Cybersecurity &amp; secure system design**
 - &nbsp;Always building, learning, and improving
+
+<br clear="right" />
 
 ## 🛠️ &nbsp;Tech Stack
 
@@ -81,6 +81,10 @@ janith@github:~$ whoami
 ## 📊 &nbsp;GitHub Stats
 
 <div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Janith-Bhashitha&label=profile+views&color=00B4FF&style=flat-square" alt="Profile Views" />
+
+<br /><br />
 
 <img width="68%" src="https://streak-stats.demolab.com?user=Janith-Bhashitha&hide_border=true&background=0D1117&border=00B4FF&stroke=0D1117&ring=00B4FF&fire=00E5FF&currStreakLabel=00B4FF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak" />
 
