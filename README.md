@@ -15,11 +15,11 @@ janith@github:~$ whoami
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/based_in-Sri%20Lanka-0D1117?style=flat-square&logo=googlemaps&logoColor=00B4FF&labelColor=0D1117" alt="Location" />
+  <img src="https://img.shields.io/badge/based_in-Sri%20Lanka-00B4FF?style=flat-square&logo=googlemaps&logoColor=white&labelColor=0D1117" alt="Location" />
   &nbsp;
-  <img src="https://img.shields.io/badge/status-open_to_collab-0D1117?style=flat-square&labelColor=0D1117&color=0D1117" alt="Status" />
+  <img src="https://img.shields.io/badge/status-open_to_collab-00B4FF?style=flat-square&labelColor=0D1117" alt="Status" />
   &nbsp;
-  <img src="https://img.shields.io/badge/joined_github-2025-0D1117?style=flat-square&logo=github&logoColor=00B4FF&labelColor=0D1117" alt="Joined" />
+  <img src="https://img.shields.io/badge/joined_github-2025-00B4FF?style=flat-square&logo=github&logoColor=white&labelColor=0D1117" alt="Joined" />
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=Janith-Bhashitha&label=profile+views&color=00B4FF&style=flat-square" alt="Profile Views" />
 </div>
@@ -28,7 +28,7 @@ janith@github:~$ whoami
 
 ## `~/about`
 
-> Building practical, real-world web applications from front end to back end.
+**Building practical, real-world web applications from front end to back end.**
 
 - &nbsp;Full-Stack Developer focused on modern web applications
 - &nbsp;Building interfaces with **React, Next.js &amp; TypeScript**
@@ -104,11 +104,11 @@ $ ./connect.sh --run
 
 <div align="center">
 
-<a href="https://github.com/Janith-Bhashitha" target="_blank"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00B4FF" alt="GitHub" /></a>
-<a href="mailto:bhashithabmj@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00B4FF" alt="Email" /></a>
-<a href="https://www.linkedin.com/in/janith-bhashitha-2a1524307/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00B4FF" alt="LinkedIn" /></a>
-<a href="https://wa.me/94719575585" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-0D1117?style=for-the-badge&logo=whatsapp&logoColor=00B4FF" alt="WhatsApp" /></a>
-<a href="https://www.facebook.com/share/1LVXCEvDoq/" target="_blank"><img src="https://img.shields.io/badge/Facebook-0D1117?style=for-the-badge&logo=facebook&logoColor=00B4FF" alt="Facebook" /></a>
+<a href="https://github.com/Janith-Bhashitha" target="_blank"><img src="https://img.shields.io/badge/GitHub-00B4FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="mailto:bhashithabmj@gmail.com"><img src="https://img.shields.io/badge/Email-00B4FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/janith-bhashitha-2a1524307/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-00B4FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://wa.me/94719575585" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-00B4FF?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+<a href="https://www.facebook.com/share/1LVXCEvDoq/" target="_blank"><img src="https://img.shields.io/badge/Facebook-00B4FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
 
 </div>
 
