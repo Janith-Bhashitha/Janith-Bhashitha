@@ -26,7 +26,7 @@ janith@github:~$ whoami
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00B4FF,100:0D1117&height=3&section=header&animation=twinkling" width="100%" alt="divider" />
 
-## `~/about`
+## 👋 &nbsp;About Me
 
 **Building practical, real-world web applications from front end to back end.**
 
@@ -39,7 +39,7 @@ janith@github:~$ whoami
 - &nbsp;Growing interest in **Cybersecurity &amp; secure system design**
 - &nbsp;Always building, learning, and improving
 
-## `~/tech-stack`
+## 🛠️ &nbsp;Tech Stack
 
 <div align="center">
 
@@ -78,7 +78,7 @@ janith@github:~$ whoami
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00B4FF,100:0D1117&height=3&section=header&animation=twinkling" width="100%" alt="divider" />
 
-## `~/stats --analyze`
+## 📊 &nbsp;GitHub Stats
 
 <div align="center">
 
@@ -94,7 +94,7 @@ janith@github:~$ whoami
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00B4FF,100:0D1117&height=3&section=header&animation=twinkling" width="100%" alt="divider" />
 
-## `~/connect.sh`
+## 📡 &nbsp;Let's Connect
 
 ```bash
 $ ./connect.sh --run
